@@ -2,7 +2,7 @@
 
 Um aplicativo de Pomodoro moderno e elegante desenvolvido com React, TypeScript e Tauri/Rust, que oferece uma experiência de usuário fluida e uma interface intuitiva para ajudá-lo a se manter focado e produtivo.
 
-Este aplicativo foi desenvolvido para fins didáticos — criei com o objetivo de compreender o ambiente e as principais funcionalidades do framework Tauri. Como estou aprendendo Rust, aproveitei o Tauri para migrar meus conhecimentos de TypeScript para Rust. Excelente framework… este projeto foi concluído em mais ou menos umas 4 horas. Foi necessário estudar com atenção a documentação dos métodos e funções disponíveis nas bibliotecas oferecidas pela equipe do Tauri.
+Este aplicativo foi desenvolvido para fins didáticos — criei com o objetivo de compreender o ambiente e as principais funcionalidades do framework Tauri. Como estou aprendendo Rust, aproveitei o Tauri para migrar meus conhecimentos de TypeScript para Rust. Excelente framework… este alpha foi feito em mais ou menos umas 4 horas. Foi necessário estudar com atenção a documentação dos métodos e funções disponíveis nas bibliotecas oferecidas pela equipe do Tauri.
 
 📌 Funcionalidades
 
