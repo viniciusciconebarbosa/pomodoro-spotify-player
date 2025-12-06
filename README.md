@@ -48,7 +48,8 @@ Um aplicativo de Pomodoro moderno e elegante desenvolvido com React, TypeScript 
 ```
 
 ## foto:
-<img width="318" height="715" alt="image" src="https://github.com/user-attachments/assets/6d4e1e61-a066-41af-8832-460ef4aa7b44" />
+<img width="257" height="583" alt="image" src="https://github.com/user-attachments/assets/875ca6c7-680c-4f2e-a954-bcd4b2a24991" />
+
 
 
 
