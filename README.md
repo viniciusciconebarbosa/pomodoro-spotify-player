@@ -1,4 +1,4 @@
-# 🍅 Pomodoro App - React + Tauri
+# Pomodoro App - React + Tauri
 
 Um aplicativo de Pomodoro moderno e elegante desenvolvido com React, TypeScript e Tauri/Rust, que oferece uma experiência de usuário fluida e uma interface intuitiva para ajudá-lo a se manter focado e produtivo.
 
