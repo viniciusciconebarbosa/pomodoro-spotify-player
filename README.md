@@ -47,8 +47,10 @@ Um aplicativo de Pomodoro moderno e elegante desenvolvido com React, TypeScript 
 └── vite.config.ts            # Configuração do Vite
 ```
 
-## foto:
-<img width="257" height="583" alt="image" src="https://github.com/user-attachments/assets/875ca6c7-680c-4f2e-a954-bcd4b2a24991" />
+## Video:
+
+![gif](https://github.com/user-attachments/assets/c1a912ab-81e6-4333-9153-e24c38cf3ee3)
+
 
 
 
