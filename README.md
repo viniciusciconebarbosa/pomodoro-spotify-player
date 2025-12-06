@@ -49,7 +49,8 @@ Um aplicativo de Pomodoro moderno e elegante desenvolvido com React, TypeScript 
 
 ## Video:
 
-![gif](https://github.com/user-attachments/assets/c1a912ab-81e6-4333-9153-e24c38cf3ee3)
+![sdfsdfaaaer](https://github.com/user-attachments/assets/4e93dbaf-af5d-4e1e-8042-a13c06ebb132)
+
 
 
 
