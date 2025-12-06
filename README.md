@@ -94,4 +94,4 @@ Este projeto está licenciado. Veja o arquivo [LICENSE](LICENSE) para mais detal
 
 Obs:
 
-Este aplicativo foi desenvolvido para fins didáticos — criei com o objetivo de compreender o ambiente e as principais funcionalidades do framework Tauri. Como estou aprendendo Rust, aproveitei o Tauri para migrar meus conhecimentos de TypeScript para Rust. Excelente framework… este projeto foi concluído em mais ou menos umas 4 horas. Foi necessário estudar com atenção a documentação dos métodos e funções disponíveis nas bibliotecas oferecidas pela equipe do Tauri.
+Este aplicativo foi desenvolvido para fins didáticos — criei com o objetivo de compreender o ambiente e as principais funcionalidades do framework Tauri. Como estou aprendendo Rust, aproveitei o Tauri para migrar meus conhecimentos de TypeScript para Rust. Excelente framework… este alpha inicial foi concluído em mais ou menos umas 4 horas. Foi necessário estudar com atenção a documentação dos métodos e funções disponíveis nas bibliotecas oferecidas pela equipe do Tauri.
