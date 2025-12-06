@@ -1,4 +1,4 @@
-# Tauri framework Rust + React + Typescript
+# Tauri framework Typescript + React + Rust
 
 This template should help get you started developing with Tauri, React and Typescript in Vite.
 
